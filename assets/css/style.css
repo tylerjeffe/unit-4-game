@@ -1,0 +1,23 @@
+.crystal{
+    height: 150px;
+    width: 150px;
+    align-content: center;
+}
+body{
+    color:white;
+    font-size: 20px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.instructions{
+    font-size: 15px;
+    
+}
+#crystalcol{
+    align-content: center;
+}
+p{
+    padding:0;
+}
